@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/FeliceHo/Coding/App%20Development/Coursera%20-%20Android%20Apps%20101/AndroidStudioProjects/My%20Song%20App/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">My Song App</string>
+    <string name="coverArtDescription">cover art for the album leaf</string>
+    <string name="lyrics">
+    	This is my first app \n
+    	that plays music \n\n
+    	The Stop button \n
+    	stops the music \n
+    	in the app \n\n
+    	The Website button \n
+    	brings you \n
+    	to the artist\'s site    
+    </string>
+    <string name="stop_music">Stop Music</string>
+    <string name="title_activity_song_main">The Album Leaf</string>
+    <string name="website">Website</string>
+    <!-- From: file:/Users/FeliceHo/Coding/App%20Development/Coursera%20-%20Android%20Apps%20101/AndroidStudioProjects/My%20Song%20App/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <style name="LyricsText" parent="@android:style/TextAppearance.Large">
+        <item name="android:textColor">#404040</item>
+        <item name="android:textStyle">italic</item>        
+    </style>
+</resources>

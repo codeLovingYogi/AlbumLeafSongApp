@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">My Song App</string>
+    <string name="title_activity_song_main">The Album Leaf</string>
+    <string name="lyrics">
+    	This is my first app \n
+    	that plays music \n\n
+    	The Stop button \n
+    	stops the music \n
+    	in the app \n\n
+    	The Website button \n
+    	brings you \n
+    	to the artist\'s site    
+    </string>
+    <string name="coverArtDescription">cover art for the album leaf</string>
+    <string name="stop_music">Stop Music</string>
+    <string name="website">Website</string>
+
+</resources>

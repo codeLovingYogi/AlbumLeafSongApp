@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/FeliceHo/Coding/App Development/Coursera - Android Apps 101/AndroidStudioProjects/My Song App/app/src/main/res"><file name="ic_launcher" path="/Users/FeliceHo/Coding/App Development/Coursera - Android Apps 101/AndroidStudioProjects/My Song App/app/src/main/res/drawable-hdpi/ic_launcher.png" qualifiers="hdpi" type="drawable"/><file name="album_art" path="/Users/FeliceHo/Coding/App Development/Coursera - Android Apps 101/AndroidStudioProjects/My Song App/app/src/main/res/drawable-mdpi/album_art.png" qualifiers="mdpi" type="drawable"/><file name="ic_launcher" path="/Users/FeliceHo/Coding/App Development/Coursera - Android Apps 101/AndroidStudioProjects/My Song App/app/src/main/res/drawable-mdpi/ic_launcher.png" qualifiers="mdpi" type="drawable"/><file name="album_art" path="/Users/FeliceHo/Coding/App Development/Coursera - Android Apps 101/AndroidStudioProjects/My Song App/app/src/main/res/drawable-xhdpi/album_art.png" qualifiers="xhdpi" type="drawable"/><file name="ic_launcher" path="/Users/FeliceHo/Coding/App Development/Coursera - Android Apps 101/AndroidStudioProjects/My Song App/app/src/main/res/drawable-xhdpi/ic_launcher.png" qualifiers="xhdpi" type="drawable"/><file name="ic_launcher" path="/Users/FeliceHo/Coding/App Development/Coursera - Android Apps 101/AndroidStudioProjects/My Song App/app/src/main/res/drawable-xxhdpi/ic_launcher.png" qualifiers="xxhdpi" type="drawable"/><file name="main_activity" path="/Users/FeliceHo/Coding/App Development/Coursera - Android Apps 101/AndroidStudioProjects/My Song App/app/src/main/res/layout/main_activity.xml" qualifiers="" type="layout"/><file name="leavingflorida" path="/Users/FeliceHo/Coding/App Development/Coursera - Android Apps 101/AndroidStudioProjects/My Song App/app/src/main/res/raw/leavingflorida.mp3" qualifiers="" type="raw"/><file path="/Users/FeliceHo/Coding/App Development/Coursera - Android Apps 101/AndroidStudioProjects/My Song App/app/src/main/res/values/strings.xml" qualifiers=""><string name="stop_music">Stop Music</string><string name="lyrics">
+    	This is my first app \n
+    	that plays music \n\n
+    	The Stop button \n
+    	stops the music \n
+    	in the app \n\n
+    	The Website button \n
+    	brings you \n
+    	to the artist\'s site    
+    </string><string name="app_name">My Song App</string><string name="title_activity_song_main">The Album Leaf</string><string name="coverArtDescription">cover art for the album leaf</string><string name="website">Website</string></file><file path="/Users/FeliceHo/Coding/App Development/Coursera - Android Apps 101/AndroidStudioProjects/My Song App/app/src/main/res/values/styles.xml" qualifiers=""><style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style><style name="LyricsText" parent="@android:style/TextAppearance.Large">
+        <item name="android:textColor">#404040</item>
+        <item name="android:textStyle">italic</item>        
+    </style><style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style></file><file path="/Users/FeliceHo/Coding/App Development/Coursera - Android Apps 101/AndroidStudioProjects/My Song App/app/src/main/res/values-v11/styles.xml" qualifiers="v11"><style name="AppBaseTheme" parent="android:Theme.Holo.Light">
+        <!-- API 11 theme customizations can go here. -->
+    </style></file><file path="/Users/FeliceHo/Coding/App Development/Coursera - Android Apps 101/AndroidStudioProjects/My Song App/app/src/main/res/values-v14/styles.xml" qualifiers="v14"><style name="AppBaseTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <!-- API 14 theme customizations can go here. -->
+    </style></file></source><source path="/Users/FeliceHo/Coding/App Development/Coursera - Android Apps 101/AndroidStudioProjects/My Song App/app/build/generated/res/rs/debug"/><source path="/Users/FeliceHo/Coding/App Development/Coursera - Android Apps 101/AndroidStudioProjects/My Song App/app/build/generated/res/generated/debug"/></dataSet><dataSet config="debug"><source path="/Users/FeliceHo/Coding/App Development/Coursera - Android Apps 101/AndroidStudioProjects/My Song App/app/src/debug/res"/></dataSet><mergedItems/></merger>
